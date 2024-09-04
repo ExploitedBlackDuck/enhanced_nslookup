@@ -80,7 +80,7 @@ You can modify the script to adjust the parallel processing limit or add additio
 
 ## License
 
-[Specify the license under which this script is distributed]
+MIT
 
 ## Contributing
 
